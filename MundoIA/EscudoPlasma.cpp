@@ -29,9 +29,9 @@ EscudoPlasma::EscudoPlasma(int px, int py)
 void EscudoPlasma::dibujar() {
     Herramienta h; h.asignarcolor(14);
 
-    h.ubicar(x, y); cout << " /===\\ ";
+    h.ubicar(x, y); cout     << " /===\\ ";
     h.ubicar(x, y + 1); cout << "| |_| |";
-    h.ubicar(x, y + 2); cout << "  \\_/ ";
+    h.ubicar(x, y + 2); cout << " \\__/ ";
 }
 
 void EscudoPlasma::borrar() {
