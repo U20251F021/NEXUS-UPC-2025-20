@@ -25,6 +25,12 @@ Cada fase simboliza un paso en la relación entre el control algorítmico y la r
 - Toolset v143 o superior, **x64**.
 - Consola de Windows (sin dependencias externas).
 
+## Autores
+Grupo NEXUS:
+- Gerardo Morales
+- Adriano Matos
+- Ilder Ojeda
+
 ## Cómo compilar y ejecutar
 1. Clona o descarga el repo:
    ```bash
