@@ -1,4 +1,4 @@
-# NEXUS — Juego en C++ (ASCII) · UPC 2025-20
+# NEXUS — Juego en C++ (ASCII)
 
 > Trabajo Parcial. Videojuego de consola en **C++** que aplica **POO** (abstracción, encapsulamiento, herencia y polimorfismo) con varios mundos temáticos, entidades y recursos dibujados en ASCII.
 
@@ -34,6 +34,6 @@ Grupo NEXUS:
 ## Cómo compilar y ejecutar
 1. Clona o descarga el repo:
    ```bash
-   https://github.com/U20251F021/NEXUS-UPC-2025-20.git
+   https://github.com/ilderojeda-dev/NEXUS.git
 
 
