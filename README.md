@@ -34,7 +34,6 @@ Grupo NEXUS:
 ## Cómo compilar y ejecutar
 1. Clona o descarga el repo:
    ```bash
-   
    https://github.com/U20251F021/NEXUS-UPC-2025-20.git
 
 
